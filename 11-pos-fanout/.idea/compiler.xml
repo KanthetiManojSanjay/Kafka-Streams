@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rewards-table" />
+        <module name="window-suppress" />
+        <module name="topology-test" />
+        <module name="counting-window" />
+        <module name="session-window" />
+        <module name="kstream-aggregate" />
+        <module name="age-count" />
+        <module name="ktable-aggregate" />
+        <module name="17-rewards-in-memory-store" />
+        <module name="11-pos-fanout" />
+        <module name="kstream-join" />
+        <module name="ktable-join" />
+        <module name="top3-news" />
+        <module name="streaming-table" />
+        <module name="word-count" />
+        <module name="kstream-gktable-join" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

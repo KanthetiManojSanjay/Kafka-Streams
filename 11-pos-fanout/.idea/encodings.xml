@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../17-rewards-in-memory-store/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../17-rewards-in-memory-store/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../18-streaming-table/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../18-streaming-table/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../19-word-count/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../19-word-count/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../20-rewards-table/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../20-rewards-table/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../21-kstream-aggregate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../21-kstream-aggregate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../22-age-count/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../22-age-count/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../23-ktable-aggregate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../23-ktable-aggregate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../24-counting-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../24-counting-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../27-session-window/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../27-session-window/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../28-window-supress/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../28-window-supress/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../29-kstream-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../29-kstream-join/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../30-ktable-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../30-ktable-join/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../31-kstream-gktable-join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../31-kstream-gktable-join/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../32-top3-news/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../32-top3-news/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../34-topology-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../34-topology-test/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
